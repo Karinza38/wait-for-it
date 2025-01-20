@@ -1,4 +1,4 @@
-> [!IMPORTANT]
+ > [!IMPORTANT]
 > The wait-for-it project has a new home at https://github.com/hartwork/wait-for-it by now.
 
 # [wait-for-it](https://wait-for-it.readthedocs.io/en/latest/)
